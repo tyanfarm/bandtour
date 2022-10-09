@@ -24,6 +24,7 @@ html {
 }
 
 .btn {
+    cursor: pointer;
     text-decoration: none;
     background-color: black;
     color: white;
@@ -31,7 +32,6 @@ html {
     font-size: 15px;
     display: inline-block;
     margin-bottom: 1px;
-    cursor: pointer;
     border: none;
     appearance: none;
     -webkit-appearance: none;
