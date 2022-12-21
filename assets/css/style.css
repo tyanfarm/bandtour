@@ -378,14 +378,14 @@ html {
 
 #footer .social-network a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 24px;
     color: rgba(0, 0, 0, 0.6);
     margin: -1px;
 }
 
 #footer .social-network a:hover {
     color: rgba(0, 0, 0, 0.4);
-    cursor: default;
+    cursor: pointer;
 }
 
 #footer p {
@@ -470,8 +470,6 @@ html {
     border: none;
     font-size: 14px;
 }
-
-
 
 .modal .modal-buy-button:hover {
     cursor: pointer;
